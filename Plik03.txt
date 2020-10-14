@@ -1,1 +1,2 @@
 asystentzmiana 07b
+Uproszczony interfejs graficzny

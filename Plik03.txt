@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+3<<<<<<< HEAD
 zmiana 07b
 hotfix001
 =======
 asystentzmiana 07b
 Uproszczony interfejs graficzny
 easierApp
+.
